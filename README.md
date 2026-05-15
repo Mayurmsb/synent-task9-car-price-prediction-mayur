@@ -50,45 +50,45 @@ This project includes:
 ## 📸 SCREENSHOTS
 
 ### 📊 Dataset Overview
-![images](01_Dataset_Head.png)
+![Dataset_Head](images/01_Dataset_Head.png)
 
-![Dataset Info](02_Dataset_Info.png)
+![Dataset Info](images/02_Dataset_Info.png)
 
 ---
 
 ### 🧹 Data Cleaning & Missing Values
-![Missing Values](03_Missing_Values.png)
+![Missing Values](images/03_Missing_Values.png)
 
 ---
 
 ### 📊 Exploratory Data Analysis (EDA)
 
 #### 💰 Car Price Distribution
-![Car Price Distribution](04_Car_Price_Distribution.png)
+![Car Price Distribution](images/04_Car_Price_Distribution.png)
 
 #### ⛽ Fuel Type Count
-![Fuel Type Count](05_Fuel_Type_Count.png)
+![Fuel Type Count](images/05_Fuel_Type_Count.png)
 
 #### ⚙️ Transmission Type
-![Transmission Type](06_Transmission_Type.png)
+![Transmission Type](images/06_Transmission_Type.png)
 
 #### 📈 Year vs Price Analysis
-![Year vs Price](07_Year_vs_Price.png)
+![Year vs Price](images/07_Year_vs_Price.png)
 
 ---
 
 ### 🔥 Correlation Heatmap
-![Correlation Heatmap](08_Correlation_Heatmap.png)
+![Correlation Heatmap](images/08_Correlation_Heatmap.png)
 
 ---
 
 ### 🤖 Model Evaluation
-![Model Evaluation](09_Model_Evaluation.png)
+![Model Evaluation](images/09_Model_Evaluation.png)
 
 ---
 
 ### 🌐 Streamlit Home Page
-![Streamlit Home Page](10_Streamlit_Home_Page.png)
+![Streamlit Home Page](images/10_Streamlit_Home_Page.png)
 
 ---
 
