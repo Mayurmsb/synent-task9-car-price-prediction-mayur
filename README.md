@@ -1,2 +1,144 @@
-# synent-task9-car-price-prediction-mayur
-Car Price Prediction Project using Machine Learning and Python.
+=========================================
+USED CAR PRICE PREDICTION SYSTEM
+Internship Task 9 Submission
+Submitted By : Mayur Bavaskar
+=========================================
+
+# TASK 9 : END-TO-END DATA SCIENCE PROJECT
+
+## PROJECT OVERVIEW
+
+The objective of this project is to build a complete End-to-End Machine Learning project using a real-world Used Car Dataset.
+
+This project includes:
+
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis (EDA)
+4. Feature Engineering
+5. Model Building
+6. Model Evaluation
+7. Deployment using Streamlit
+
+--------------------------------------------------
+
+## DATASET DETAILS
+
+Dataset Name : Used Car Dataset
+
+Total Rows : 6019
+
+Total Columns : 13
+
+Features Used:
+
+- Name
+- Location
+- Year
+- Kilometers Driven
+- Fuel Type
+- Transmission
+- Owner Type
+- Mileage
+- Engine
+- Power
+- Seats
+- Price
+
+Target Variable:
+
+- Price
+
+--------------------------------------------------
+
+## TECHNOLOGIES USED
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- Streamlit
+
+--------------------------------------------------
+
+## MACHINE LEARNING MODEL
+
+Algorithm Used:
+
+Random Forest Regressor
+
+--------------------------------------------------
+
+## PROJECT WORKFLOW
+
+STEP 1 : Import Libraries
+
+STEP 2 : Load Dataset
+
+STEP 3 : Data Understanding
+
+STEP 4 : Handle Missing Values
+
+STEP 5 : Data Cleaning
+
+STEP 6 : Exploratory Data Analysis
+
+STEP 7 : Feature Engineering
+
+STEP 8 : Train Test Split
+
+STEP 9 : Model Building
+
+STEP 10 : Model Evaluation
+
+STEP 11 : Save Model
+
+STEP 12 : Streamlit Deployment
+
+--------------------------------------------------
+
+## MODEL EVALUATION METRICS
+
+- Mean Absolute Error (MAE)
+- R2 Score
+
+--------------------------------------------------
+
+## STREAMLIT DEPLOYMENT
+
+Run the following command:
+
+streamlit run app.py
+
+--------------------------------------------------
+
+## PROJECT FEATURES
+
+✔ Predicts Used Car Prices
+
+✔ User Friendly Streamlit Interface
+
+✔ Real-Time Prediction
+
+✔ End-to-End Machine Learning Workflow
+
+--------------------------------------------------
+
+## CONCLUSION
+
+This project successfully predicts used car prices using Machine Learning techniques.
+
+The project demonstrates:
+
+- Data Cleaning
+- Data Visualization
+- Machine Learning Model Building
+- Deployment using Streamlit
+
+This project helps understand how Machine Learning can be used in real-world automobile price prediction systems.
+
+--------------------------------------------------
+
+THANK YOU
