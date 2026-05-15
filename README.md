@@ -1,154 +1,143 @@
-=========================================
- USED CAR PRICE PREDICTION SYSTEM
-Internship Task 9 Submission
-Submitted By : Mayur Bavaskar
-=========================================
+# 📊 USED CAR PRICE PREDICTION SYSTEM  
+### Internship Task 9 Submission  
+**Submitted By : Mayur Bavaskar**
 
-# TASK 9 : END-TO-END DATA SCIENCE PROJECT
+---
 
-## PROJECT OVERVIEW
+## 🚀 TASK 9 : END-TO-END DATA SCIENCE PROJECT
+
+---
+
+## 📌 PROJECT OVERVIEW
 
 The objective of this project is to build a complete End-to-End Machine Learning project using a real-world Used Car Dataset.
 
 This project includes:
 
-1. Data Collection
-2. Data Cleaning
-3. Exploratory Data Analysis (EDA)
-4. Feature Engineering
-5. Model Building
-6. Model Evaluation
-7. Deployment using Streamlit
+- Data Collection  
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Feature Engineering  
+- Model Building  
+- Model Evaluation  
+- Deployment using Streamlit  
 
---------------------------------------------------
+---
 
-## DATASET DETAILS
+## 📂 DATASET DETAILS
 
-Dataset Name : Used Car Dataset
+- **Dataset Name:** Used Car Dataset  
+- **Total Rows:** 6019  
+- **Total Columns:** 13  
 
-Total Rows : 6019
+### 📌 Features Used:
 
-Total Columns : 13
+- Name  
+- Location  
+- Year  
+- Kilometers Driven  
+- Fuel Type  
+- Transmission  
+- Owner Type  
+- Mileage  
+- Engine  
+- Power  
+- Seats  
+- Price  
 
-Features Used:
+---
 
-- Name
-- Location
-- Year
-- Kilometers Driven
-- Fuel Type
-- Transmission
-- Owner Type
-- Mileage
-- Engine
-- Power
-- Seats
-- Price
+## 📸 SCREENSHOTS
 
- 
-Abbord Msb
-9:56 PM (0 minutes ago)
-to me
+### 📊 Dataset Overview
+![Dataset Head](01_Dataset_Head.png)
 
-# Screenshots
+![Dataset Info](02_Dataset_Info.png)
 
-![Heatmap](08_Correlation_Heatmap.png)
+---
 
-## Genre Analysis
-![Genre Analysis](images/02_Genre_Analysis.png)
+### 🧹 Data Cleaning & Missing Values
+![Missing Values](03_Missing_Values.png)
 
-## Movies Vs TV Shows
-![Movies Vs TV Shows](images/03_Movie_Vsseries.png)
+---
 
-## Top 10 Distribution
-![Top 10 Distribution](images/04_Top10_Distribution.png)
+### 📊 Exploratory Data Analysis (EDA)
 
-## Dual Type Count
-![Dual Type Count](images/05_DualType_Count.png)
+#### 💰 Car Price Distribution
+![Car Price Distribution](04_Car_Price_Distribution.png)
 
-## Duration
-![Duration](images/06_Duration.png)
+#### ⛽ Fuel Type Count
+![Fuel Type Count](05_Fuel_Type_Count.png)
 
-## Yearwise
-![Yearwise](images/07_Yearvs.png)
+#### ⚙️ Transmission Type
+![Transmission Type](06_Transmission_Type.png)
 
-## Correlation Heatmap
+#### 📈 Year vs Price Analysis
+![Year vs Price](07_Year_vs_Price.png)
+
+---
+
+### 🔥 Correlation Heatmap
 ![Correlation Heatmap](08_Correlation_Heatmap.png)
 
-## Rating Evaluation
-![Rating Evaluation](images/09_RatingEvaluation.png)
+---
 
-## Small Home Page
-![Small Home Page](images/10_Small_Home_Page.png)
+### 🤖 Model Evaluation
+![Model Evaluation](09_Model_Evaluation.png)
 
-Target Variable:
+---
 
-- Price
+### 🌐 Streamlit Home Page
+![Streamlit Home Page](10_Streamlit_Home_Page.png)
 
---------------------------------------------------
+---
 
-## TECHNOLOGIES USED
+## 🛠️ TECHNOLOGIES USED
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- Streamlit
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-Learn  
+- Streamlit  
 
---------------------------------------------------
+---
 
-## MACHINE LEARNING MODEL
+## 🤖 MACHINE LEARNING MODEL
 
-Algorithm Used:
+### Algorithm Used:
+- Random Forest Regressor  
 
-Random Forest Regressor
+---
 
---------------------------------------------------
+## 🔄 PROJECT WORKFLOW
 
-## PROJECT WORKFLOW
+1. Import Libraries  
+2. Load Dataset  
+3. Data Understanding  
+4. Handle Missing Values  
+5. Data Cleaning  
+6. Exploratory Data Analysis  
+7. Feature Engineering  
+8. Train Test Split  
+9. Model Building  
+10. Model Evaluation  
+11. Save Model  
+12. Streamlit Deployment  
 
-STEP 1 : Import Libraries
+---
 
-STEP 2 : Load Dataset
+## 📊 MODEL EVALUATION METRICS
 
-STEP 3 : Data Understanding
+- Mean Absolute Error (MAE)  
+- R2 Score  
 
-STEP 4 : Handle Missing Values
+---
 
-STEP 5 : Data Cleaning
-
-STEP 6 : Exploratory Data Analysis
-
-STEP 7 : Feature Engineering
-
-STEP 8 : Train Test Split
-
-STEP 9 : Model Building
-
-STEP 10 : Model Evaluation
-
-STEP 11 : Save Model
-
-STEP 12 : Streamlit Deployment
-
---------------------------------------------------
-
-## MODEL EVALUATION METRICS
-
-- Mean Absolute Error (MAE)
-- R2 Score
-
---------------------------------------------------
-
-## STREAMLIT DEPLOYMENT
-
-Run the following command:
-
+## 🚀 STREAMLIT DEPLOYMENT
+Run this command:
 streamlit run app.py
-
---------------------------------------------------
 
 ## PROJECT FEATURES
 
