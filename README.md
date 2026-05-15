@@ -45,6 +45,43 @@ Features Used:
 - Seats
 - Price
 
+ 
+Abbord Msb
+9:56 PM (0 minutes ago)
+to me
+
+# Screenshots
+
+## Heatmap
+![Heatmap](images/01_Heatmap.png)
+
+## Genre Analysis
+![Genre Analysis](images/02_Genre_Analysis.png)
+
+## Movies Vs TV Shows
+![Movies Vs TV Shows](images/03_Movie_Vsseries.png)
+
+## Top 10 Distribution
+![Top 10 Distribution](images/04_Top10_Distribution.png)
+
+## Dual Type Count
+![Dual Type Count](images/05_DualType_Count.png)
+
+## Duration
+![Duration](images/06_Duration.png)
+
+## Yearwise
+![Yearwise](images/07_Yearvs.png)
+
+## Correlation Heatmap
+![Correlation Heatmap](images/08_Correlation_Heatmap.png)
+
+## Rating Evaluation
+![Rating Evaluation](images/09_RatingEvaluation.png)
+
+## Small Home Page
+![Small Home Page](images/10_Small_Home_Page.png)
+
 Target Variable:
 
 - Price
