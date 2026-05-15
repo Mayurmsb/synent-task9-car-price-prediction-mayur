@@ -50,7 +50,7 @@ This project includes:
 ## 📸 SCREENSHOTS
 
 ### 📊 Dataset Overview
-![Dataset Head](01_Dataset_Head.png)
+![images](01_Dataset_Head.png)
 
 ![Dataset Info](02_Dataset_Info.png)
 
