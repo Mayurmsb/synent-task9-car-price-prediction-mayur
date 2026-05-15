@@ -52,8 +52,7 @@ to me
 
 # Screenshots
 
-## Heatmap
-![Heatmap](images/01_Heatmap.png)
+![Heatmap](08_Correlation_Heatmap.png)
 
 ## Genre Analysis
 ![Genre Analysis](images/02_Genre_Analysis.png)
@@ -74,7 +73,7 @@ to me
 ![Yearwise](images/07_Yearvs.png)
 
 ## Correlation Heatmap
-![Correlation Heatmap](images/08_Correlation_Heatmap.png)
+![Correlation Heatmap](08_Correlation_Heatmap.png)
 
 ## Rating Evaluation
 ![Rating Evaluation](images/09_RatingEvaluation.png)
