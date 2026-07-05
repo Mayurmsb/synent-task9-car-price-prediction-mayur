@@ -1,7 +1,4 @@
-# 📊 USED CAR PRICE PREDICTION SYSTEM  
-### Internship Task 9 Submission  
-**Submitted By : Mayur Bavaskar**
-
+# 📊 USED CAR PRICE PREDICTION SYSTEM   
 ---
 
 ## 🚀 TASK 9 : END-TO-END DATA SCIENCE PROJECT
